@@ -1,1 +1,16 @@
+# Images Folder
 
+Upload all your images here.  
+To access any image remotely, use the following format:
+
+```
+https://raw.githubusercontent.com/bennyboy54001/Vrchat-world-whitelist/main/images/<your-image-file>
+```
+
+**Example:**  
+If you upload `cat.png` here, the raw link will be:  
+```
+https://raw.githubusercontent.com/bennyboy54001/Vrchat-world-whitelist/main/images/cat.png
+```
+
+You can use these links for embedding, sharing, or remote access.
